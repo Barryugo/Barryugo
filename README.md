@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and programming 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me on WhatsApp 
+- 📫 Reach me here Barryugo1000@gmail.com
 
 <!---
 Barryugo/Barryugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
