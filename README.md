@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Barry
-- 👀 I’m interested in data and programming 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my project
+- 👀 I’m interested in data and Python
+- 🌱 I’m always learning python
+- 💞️ I’m looking to collaborate on my projects
 - 📫 Reach me here Barryugo1000@gmail.com
 
 <!---
